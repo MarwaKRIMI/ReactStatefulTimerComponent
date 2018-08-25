@@ -1,2 +1,0 @@
-# ReactStatefulTimerComponent
-Created with CodeSandbox
